@@ -1,4 +1,4 @@
-package day4Wait;
+package day04Wait;
 
 import java.time.Duration;
 

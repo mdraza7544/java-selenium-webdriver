@@ -1,4 +1,4 @@
-package day3WebdriverMethods;
+package day03WebdriverMethods;
 
 import java.util.Set;
 

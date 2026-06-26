@@ -1,4 +1,4 @@
-package day4Wait;
+package day04Wait;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

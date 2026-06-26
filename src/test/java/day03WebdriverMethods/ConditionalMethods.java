@@ -1,4 +1,4 @@
-package day3WebdriverMethods;
+package day03WebdriverMethods;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
